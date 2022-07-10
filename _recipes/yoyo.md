@@ -47,7 +47,6 @@ veggie: yes
 > Bake for 15 minutes, and let cool completely on a wire rack - the biscuits will be quite fragile until cooled. 
 
 ---
-
 # Icing
 
 * `60 g` butter, softened

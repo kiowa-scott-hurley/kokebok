@@ -4,7 +4,7 @@ A place to store my recipes with version control and internet access!
 
 This git pages is a copy of [Nyum](https://github.com/doersino/nyum) which I think is lovely and easy to set up. 
 
-You can find a recipe template in _templates for when you forget where everything is. 
+You can find a recipe template in recipe.template for when you forget where everything is. 
 
 Licensing info from original repo is intact here.
 

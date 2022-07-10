@@ -23,6 +23,7 @@ veggie: yes
 > Preheat oven to 160C and line baking trays with paper.
 
 ---
+
 * `125 g` butter, softened
 * `45 g` icing sugar
 
@@ -42,9 +43,11 @@ veggie: yes
 > Using a fork dipped in icing sugar, press each cookie down. 
 
 ---
+
 > Bake for 15 minutes, and let cool completely on a wire rack - the biscuits will be quite fragile until cooled. 
 
 ---
+
 # Icing
 
 * `60 g` butter, softened

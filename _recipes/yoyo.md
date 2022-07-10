@@ -1,7 +1,7 @@
 ---
 title: Yoyo Biscuits
 category: Baking
-description: Crumbly biscuits, ideal for afternoon tea 
+description: Crumbly biscuits, ideal for afternoon tea.
 image: yoyo.jpg
 size: 20 halves
 time: 1h

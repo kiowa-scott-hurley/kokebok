@@ -33,6 +33,7 @@ veggie: yes
 * `1/2 cup` greek yoghurt
 
 > Stir together all of the ingredients with a wooden spoon. Don't overmix! 
+>
 >>> If you didn't soak your polenta, try mix wet and dry separately first. 
 
 ---

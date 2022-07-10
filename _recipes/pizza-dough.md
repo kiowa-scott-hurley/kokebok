@@ -19,13 +19,14 @@ vegan: yes
 
 ---
 
-* `1 3/4 cups` warm water
+* `1  3/4 cups` warm water
 * `2 tsp` yeast
 * `625 g` plain flour
 * `2 tsp` salt
 * `2 tbsp` olive oil
 
 > Combine ingredients and mix well until flour is incorporated and dough forms, about 5 minutes.
+
 ---
 
 > Lightly dust a surface with flour. Knead the dough until it looks smooth, 3-4 minutes. 

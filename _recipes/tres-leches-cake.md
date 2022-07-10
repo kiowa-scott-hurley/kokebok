@@ -59,9 +59,9 @@ veggie: yes
 >
 > Pour mixture into prepared pan, and bake for 25 - 30 minutes. Put on cooling rack and allow to cool completely.
 
----
+## The pour-over 
 
-# The pour-over 
+---
 
 * `400 ml` condensed milk
 * `350 ml` evaporated milk

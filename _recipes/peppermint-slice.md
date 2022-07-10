@@ -28,6 +28,7 @@ veggie: yes
 * `185 g` butter, melted
 
 > Mix ingredients together and press into the slice pan. Bake for 20 minutes and set aside to cool. 
+>
 >>> The base should still be slightly warm for the next step! 
 
 ## Peppermint filling

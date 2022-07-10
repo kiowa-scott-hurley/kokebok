@@ -2,7 +2,7 @@
 title: Oatmeal Scones
 original_title: ATK
 category: Baking
-description: Oaty scones! Good for someting different. 
+description: Oaty scones! Good for something different. 
 image: oatmeal-scones.jpg
 size: 8 wedges
 author: America's Test Kitchen
@@ -19,6 +19,7 @@ veggie: yes
 # >>> will do a little warning bubble!
 # ![](strawberrysmoothie.jpg)
 ---
+
 * `130 g` rolled oats
 
 > Preheat oven to 190C. Spread oats on baking sheet and toast until lightly browned, 7-9 minutes. Set aside to cool. 
@@ -37,6 +38,7 @@ veggie: yes
 > Whisk together wet ingredients in a jug, and set aside 1 tbsp for glazing later. Move jug to the fridge to chill.
 
 ---
+
 * `210 g` plain flour
 * `65 g` sugar
 * `2 tsp` baking powder

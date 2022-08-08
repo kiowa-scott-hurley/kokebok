@@ -1,23 +1,21 @@
 ---
-title: TITLE
-original_title: SUBTITLE
-category: CATEGORY NAME
+title:
+category: 
 description: WHAT AM I? 
 image: INTHESAMEDIR
-size: HOW MANY?
-time: HOW LONG?
-author: WHO WROTE THIS?
-source: WHERE IS IT FROM?
+size: 
+time: 
+author: 
+source: link
 nutrition:
-  - 300 calories
-  - 60 g sugar
-  - 0.8 g fat
-  - 3.8 g protein
+  - 0 calories
+  - 0.0 g sugar
+  - 0.0 g fat
+  - 0.0 g protein
+  - 0.0 g carb
 # spicy:
 # sweet:
 # salty
-# sour
-# bitter
 # umami 
 # favorite: 
 # veggie
@@ -31,18 +29,5 @@ nutrition:
 ---
 
 * `2 tbsp` INGREDIENT
-* `1 tbsp` INGREDIENT
-* `3-4 cloves` thing
 
 > Mix in an oven-proof saucepan or cast-iron skillet – you should end up with a thick marinade.
-
----
-
-* `3-4 cloves` garlic
-* `2 tsp` ginger
-
-> Peel, squish with the side of your knife, then finely mince and add to the marinade.
-
----
-
-> Garnish with the spring onion slices and serve.

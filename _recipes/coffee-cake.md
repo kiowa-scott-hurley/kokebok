@@ -51,7 +51,7 @@ veggie: y
 
 ---
 
-* `1 and 3/4 cups` sour cream
+* `1,3/4 cups` sour cream
 * `1 tsp` vanilla
 * `200 g` brown sugar
 * `200 g` sugar
@@ -68,5 +68,5 @@ veggie: y
 
 > Scrape batter into each pan and smooth tops. Sprinkle the topping evenly over the cakes. 
 >
-> Bake for 25 to 30 minutes, until topping is crisp and toasted. A skewer inserted should come out with a few crumbs attached. 
+> Bake for 30 minutes, rotating pans after 20 minutes. Cake is done when topping is crisp and toasted and a skewer inserted should come out with a few crumbs attached. 
 

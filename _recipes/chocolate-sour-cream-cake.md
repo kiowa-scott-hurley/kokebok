@@ -1,6 +1,6 @@
 ---
 title: Chocolate Sour Cream Cake
-original_title:: Women's Weekly
+original_title: Women's Weekly
 category: Baking
 description: Very moist and chocolatey cake! 
 image: choc-sour-cream.jpg
@@ -15,12 +15,8 @@ nutrition:
   - 68.8 g carb
 sweet: y
 favorite: y 
-veggie y
+veggie: y
 
-# Note: you can use markdown headings to split
-# per the pan fired perilla leaves example
-# >>> will do a little warning bubble!
-# ![](strawberrysmoothie.jpg)
 ---
 
 > Preheat oven to 160C. Grease a 21cm bundt pan well (butter and flour!)

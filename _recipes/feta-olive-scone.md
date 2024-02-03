@@ -34,6 +34,8 @@ veggie: yes
 
 > Rub the butter into the flour mixture with your fingertips until evenly distributed.
 
+--- 
+
 * `40 g` sundried tomatoes, drained and sliced
 * `40 g` black olives, drained, pitted and sliced
 * `85 g` crumbled feta
